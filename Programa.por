@@ -14,4 +14,14 @@ programa {
      escreva("0. Finalizar Compra e Ir ao Pagamento\n\n")
      escreva("Escolha uma opção: ")
   } 
+  funcao menuRemoveItem(){
+
+     escreva("--- REMOVER ITEM DO CARRINHO ---\n\n")
+     escreva("1. Remover todas as Camisas\n")
+     escreva("2. Remover todos os Bonés\n")
+     escreva("3. Remover todos os Tênis\n\n")
+     escreva("Escolha qual produto remover completamente: ")
+        
+
+  }
 }

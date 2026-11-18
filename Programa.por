@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
     menuPrincipal()
+    menuRemoveItem()
   }
 
   funcao menuPrincipal() {
